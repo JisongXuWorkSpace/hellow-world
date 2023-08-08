@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Now I first edit on gitHub !
 
 Make another change
+
+add html-skeleton-temp
